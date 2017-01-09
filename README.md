@@ -1,4 +1,4 @@
-# Create a Chord Diagram
+# Create an Interactive Chord Diagram in R
 
 The `chordViz` package, based on the `chorddiag` package (http://github.com/mattflor/chorddiag) and
 the viz.js D3 library (http://github.com/NPashaP/Viz), is an R htmlwidget that allows the user to create
