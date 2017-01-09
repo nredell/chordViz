@@ -1,0 +1,19 @@
+
+body {
+  font: 10px sans-serif;
+}
+
+svg text{
+  text-anchor:middle;
+  font-size:18px;
+}
+
+svg .values text{
+  pointer-events:none;
+  stroke-width: 0.5px;
+}
+
+.groups:hover{
+  cursor:pointer;
+  font-weight:bold;
+}

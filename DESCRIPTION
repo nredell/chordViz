@@ -1,0 +1,20 @@
+Package: chordViz
+Type: Package
+Title: Create Interactive Chord Diagrams That Move
+Version: 1.0.0
+Authors@R: person("Nick", "Redell", email = "nickredell@hotmail.com",
+    role = c("aut", "cre"))
+Description: This package is an htmlwidget that implements the viz.js version
+    of chord diagrams. The chord diagrams are similar to those created with
+    d3.js in the chorddiag R package, with the main exception being that the
+    groups change their orientation on mouseover to clarify directed
+    relationships.
+URL: http://github.com/nredell/chordViz
+License: GPL (>= 3)
+LazyData: TRUE
+Depends:
+    R (>= 3.3.1)
+Imports:
+    htmlwidgets (>= 0.8),
+    RColorBrewer (>= 1.1-2)
+RoxygenNote: 5.0.1
