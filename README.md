@@ -25,8 +25,8 @@ chordViz(m, start = 3/2, groupNames = LETTERS[1:ncol(m)])
 
 ## Chord Diagram from chordViz()
 
-![Chord Diagram](images/chordViz_1.png)
+![Chord Diagram](images/chordDiag_1.png)
 
 ## Chord Diagram Hovering Over Group 'A'
 
-![Chord Diagram Hovering Over Group 'A'](images/chordViz_2.png)
+![Chord Diagram Hovering Over Group 'A'](images/chordDiag_2.png)
