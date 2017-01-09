@@ -19,10 +19,6 @@ m <- matrix(trunc(runif(100, 1, 20)), nrow = 10)
 chordViz(m, start = 3/2, groupNames = LETTERS[1:ncol(m)])
 ```
 
-```
-## Error in loadNamespace(name): there is no package called 'webshot'
-```
-
 ## Chord Diagram from chordViz()
 
 ![Chord Diagram](images/chordDiag_1.png)
