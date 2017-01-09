@@ -8,7 +8,7 @@ between groups on hover/mouseover.
 
 ```r
 # Install and load package.
-#devtools::install_github("nredell/chordViz")
+devtools::install_github("nredell/chordViz")
 library(chordViz)
 
 # Create an input matrix with random data.
