@@ -5,6 +5,7 @@ the viz.js D3 library (http://github.com/NPashaP/Viz), is an R htmlwidget that a
 interactive chord diagrams that emphasize the clarity of directed relationships
 between groups on hover/mouseover.
 
+## Example
 
 ```r
 # Install and load package.
